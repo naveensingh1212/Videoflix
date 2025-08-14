@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -15,3 +16,6 @@ If you are developing a production application, we recommend using TypeScript wi
 # VideoFlix
 VideoFlix is the frontend for a YouTube clone, offering a modern, responsive interface with dynamic video feeds, real-time search, and smooth playback. Users can like, dislike, and comment on videos.
 >>>>>>> 3011af886b6fec2a8c1b0e102db3a81c6785133e
+=======
+
+>>>>>>> 9ee5483cc4ceb0190f8bcd5d02a92657fc3214fc
